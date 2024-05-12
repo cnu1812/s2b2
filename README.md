@@ -3,10 +3,13 @@
 ## Description
 
 Project  S^2+B^2 (Sustainability Squared, Behavior Balanced) by Team SIRIUS successfully addresses the critical challenge of bridging the gap between sustainability innovation and investment. This innovative platform empowers both visionary innovators and discerning investors to work collaboratively towards a greener future.
+
 **Key Achievements:**
+
 - Developed a user-friendly platform using React for efficient project matchmaking.
 - Implemented a powerful NLP-powered ML model to accurately evaluate the transformative potential and environmental impact of proposed sustainability projects.
 - Leveraged cutting-edge technologies like Kubernetes and Kepler to monitor and minimize the project's own carbon footprint.
+
 **Impact and Future Potential:**
   
  S^2+B^2 goes beyond simply connecting innovators and investors. It fosters environmental awareness, promotes climate change mitigation strategies, and paves the way for transformative policy and corporate responsibility initiatives. The future holds immense potential for the platform to:
